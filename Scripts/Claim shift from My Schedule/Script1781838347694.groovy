@@ -63,5 +63,7 @@ Mobile.tap(findTestObject('Home Page/android.widget.TextView - LOGOUT'), 0)
 
 Mobile.tap(findTestObject('Home Page/android.widget.TextView - LOGOUT'), 0)
 
+Mobile.delay(2)
+
 Mobile.closeApplication()
 
